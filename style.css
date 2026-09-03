@@ -147,7 +147,7 @@ form {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  padding: 0 24px:
+  padding: 0 24px;
 }
 
 input, textarea {
@@ -197,7 +197,7 @@ footer {
 
   .home__description--button {
     max-width: 240px;
-    align-items: center:
+    align-items: center;
   }
 
   h1 {
